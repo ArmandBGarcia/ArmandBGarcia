@@ -30,3 +30,43 @@ Some of the Soft Skills that I've developed in Management Engineering were the n
 - **Emotional Intelligence**
 - **Project Management**
 - **Negotiation Skills**
+
+At <a>**Henry**</a> I did some projects that increased my skills, but just the two last projects were really quite a challenge.
+
+As an Individual Project I had to make an Application Web using the next technologies:
+
+- JavaScript
+- CSS
+- React
+- Redux
+- NodeJs
+- Express
+- Sequelize
+
+Is a FullStack Web application and has different functionalities like filtering by alphabet, rating, DB or Api, Genres and it's implemented the CRUD of Database Postgres.
+
+I will give you the deploy of the application <a href="https://videogames-armandbgarcia.vercel.app/">VideoGames App</a>
+(if the information don't charge thats meaning that my free plan on railway were I have deployed the back expired)
+
+<img src="images/videogames.gif">
+</br>
+</br>
+
+As part of the final graduation project I had to make an E-commerce together with three more classmates, our e-commerce named <a href="https://animercce.vercel.app/" about="_blank">Animercce</a> deals with the purchase of Manga and Anime.
+
+Contains local and google authentication and it has a payment gateway with **stripe**.
+
+This E-commerce were implemented with the next technologies:
+
+- **JavaScipt**
+- **TypeScript** for the Backend
+- **React**
+- **Redux**
+- **CSS**
+- **SASS**
+- **Bootstrap**
+- **Node**
+- **Express**
+- **Sequelize**
+
+I was working in the Backend programming the authentication funcions' as well as the frontend configuring Stripe library, I also worked with a lot of different routes made with Express and TypeScript and several Redux actions'.
