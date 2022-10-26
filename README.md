@@ -1,3 +1,3 @@
-<img src='baner.gif'>
+<img src='baner.gif' >
 
-<h1>Hi 👋🏽 I'am Armando B. Garcia</h1>
+<h1 style='text-align: center;'>Hi 👋🏽 I'am Armando B. Garcia</h1>
