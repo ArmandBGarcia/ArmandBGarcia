@@ -3,7 +3,7 @@
 <h1 align="center" >Hi 👋🏽 I'am Armando B. Garcia</h1>
 </hr>
 
-I'am an apassionate about technology and I love learning all what I can. Recently I obtained the **FullStack Developer** profile in **Henry BootCamp**.
+I'am an apassionate about technology and I love learning all what I can. Recently I obtained the **FullStack Developer** profile in <a href="https://www.soyhenry.com" about='_blank'>**Henry BootCamp**.</a>
 
 I'am trained to create **Web or Movile Applications** with the next technologies.
 
@@ -29,3 +29,4 @@ Some of the Soft Skills that I've developed in Management Engineering were the n
 - **Comunications Skills**
 - **Emotional Intelligence**
 - **Project Management**
+- **Negotiation Skills**
