@@ -7,7 +7,7 @@ I'am an apassionate about technology and I love learning all what I can. Recentl
 
 I'am trained to create **Web or Movile Applications** with the next technologies.
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 10px; justify-content: center;">
 <img src='images/CSS3.png' src='css' height='50px'>
 <img src='images/html5_logo.png' src='html' height='50px'>
 <img src='images/javascript.png' src='javascript' height='50px'>
