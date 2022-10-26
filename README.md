@@ -7,20 +7,14 @@ I'am an apassionate about technology and I love learning all what I can. Recentl
 
 I'am trained to create **Web or Movile Applications** with the next technologies.
 
-<p><img src='images/CSS3.png' src='css' height='50px'></p>
-
-<p><img src='images/html5_logo.png' src='html' height='50px'></p>
-
-<p><img src='images/javascript.png' src='javascript' height='50px'></p>
-
-<p><img src='images/react-2.gif' src='react' height='50px' width="60"></p>
-
-<p><img src='images/redux.png' src='redux' height='50px'></p>
-
-<p><img src='images/nodejs.gif' src='node' height='50px'></p>
-
-<p><img src='images/express-js.png' src='express' height='50px'></p>
-
-<p><img src='images/sql.png' src='sql' height='50px'></p>
-
-<p><img src='images/Postgre.png' src='postgres' height='50px'></p>
+<div style="display: flex; gap: 10px;">
+<img src='images/CSS3.png' src='css' height='50px'>
+<img src='images/html5_logo.png' src='html' height='50px'>
+<img src='images/javascript.png' src='javascript' height='50px'>
+<img src='images/react-2.gif' src='react' height='50px' width="60">
+<img src='images/redux.png' src='redux' height='50px'>
+<img src='images/nodejs.gif' src='node' height='50px'>
+<img src='images/express-js.png' src='express' height='50px'>
+<img src='images/sql.png' src='sql' height='50px'>
+<img src='images/Postgre.png' src='postgres' height='50px'>
+</div>
