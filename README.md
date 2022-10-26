@@ -7,7 +7,7 @@ I'am an apassionate about technology and I love learning all what I can. Recentl
 
 I'am trained to create **Web or Movile Applications** with the next technologies.
 
-<div style="display: flex; gap: 10px; align-items: center;">
+<div style="display: flex; gap: 17px;">
 <img src='images/CSS3.png' src='css' height='50px'>
 <img src='images/html5_logo.png' src='html' height='50px'>
 <img src='images/javascript.png' src='javascript' height='50px'>
@@ -18,3 +18,14 @@ I'am trained to create **Web or Movile Applications** with the next technologies
 <img src='images/sql.png' src='sql' height='50px'>
 <img src='images/Postgre.png' src='postgres' height='50px'>
 </div>
+</br>
+
+I'm also studying a _Business Management_ **Engineering** for four years at the Technological Institute of Mexico.
+
+Some of the Soft Skills that I've developed in Management Engineering were the next:
+
+- **Leadership**
+- **Managerial Skills**
+- **Comunications Skills**
+- **Emotional Intelligence**
+- **Project Management**
